@@ -33,6 +33,8 @@ group :doc do
 end
 
 gem "bower-rails", "~> 0.6.1"
+gem 'requirejs-rails', git: 'https://github.com/scalient/requirejs-rails.git'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
